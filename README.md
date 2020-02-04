@@ -1,3 +1,3 @@
 # TheTell
 
-Welcome to the github for The Tell.
+Welcome to GitHub for The Tell.
