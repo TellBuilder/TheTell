@@ -28,14 +28,14 @@ Instructions To Github The Tell
 
   *Generic Instructions for using Github.
   
-Branch #1) Create GitTell Repository for Github Files and Instructions
+Branch #1) Create GitTell Branch for Github Files and Instructions
 
   
 Instructions To Web The Tell
 
   *Generic Instructions for Building a Website.
   
- Branch #2) Create a WebTell Repository for Web Files and Instructions.
+ Branch #2) Create a WebTell Branch for Web Files and Instructions.
  
  
  Instructions to Tell The Tell
@@ -43,4 +43,4 @@ Instructions To Web The Tell
   *Generic Instructions To Build The Tell
   #1) Review the ReadMe File and make any modifications necessary to paint a clearer picture.
  
- Branch #3) Create a Tell Repository for Tell files and Instructions.
+ Branch #3) Create a Tell Branch for Tell files and Instructions.
